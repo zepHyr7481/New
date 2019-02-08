@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+		<head>
+			<!-- website metadata goes here-->
+			<title> My Firat Webpage!</title>
+			
+			
+			</head>
+			<body>
+			
+			<img src="https://media.giphy.com/media/IvtWZCzn61hmM/giphy.gif">
+			
+			</body>
+	</html>
